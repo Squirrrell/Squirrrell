@@ -39,20 +39,6 @@ pdf ──► marker ──► chunks ──► faiss + small hf models ──�
 titanic.csv ──► prepare.py ──► train.py ──► mlflow ──► evaluate.py (fails below 0.75)
 ```
 
-<details>
-<summary>more</summary>
-<br>
-
-| | |
-|---|---|
-| MemoVox | Android voice notes app written in Python, built around voice detection. An iOS version is planned. |
-| Portfolio rebuild | Rebuilt the UI and UX of a digital portfolio, working on Core Web Vitals, mobile layout and SEO. |
-| [Neural_Networks](https://github.com/Squirrrell/Neural_Networks) | Coursework on an extended MNIST dataset. |
-| [android_entropy](https://github.com/Squirrrell/android_entropy) | Small Kotlin app that computes binary entropy. |
-| [Topdown_Roguelike](https://github.com/Squirrrell/Topdown_Roguelike) | A top-down roguelike in C#. |
-
-</details>
-
 <br>
 
 ### `$ cat stack.toml`
