@@ -16,7 +16,7 @@ I pick projects that make me learn something I don't know yet, and I look for th
 
 ```text
 bazaar api ──► top-of-book prices ──┐
-coflnet ─────► 7-day medians ───────┼──► profit per fusion ──► ranked table (60s refresh)
+coflnet ─────► 7-day medians ───────┼──► profit per fusion ──► ranked table
 fusion data ────────────────────────┘
 ```
 
