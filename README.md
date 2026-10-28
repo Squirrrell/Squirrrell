@@ -1,10 +1,10 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
-  <img alt="squirrrell, in ANSI Shadow block letters. Denis-Mihai Dobos, third-year computer science student at UAIC Iasi, working mostly in Python on machine learning projects." src="./assets/header-dark.svg" width="100%">
+  <img alt="squirrrell, in ANSI Shadow block letters." src="./assets/header-dark.svg" width="100%">
 </picture>
 
-I'm a third-year student at the Faculty of Computer Science, "Alexandru Ioan Cuza" University in Iasi. Most of my code is Python, and lately most of it touches machine learning: transformer classifiers, LLMs wired into web apps, and the experiment tracking and CI around a model once it leaves the notebook.
+Most of my code is Python, and lately most of it touches machine learning: transformer classifiers, LLMs wired into web apps, and the experiment tracking and CI around a model once it leaves the notebook.
 
 I pick projects that make me learn something I don't know yet, and I look for the simplest solution that does the job properly. I'm looking for a place on a team where I can keep doing that, ideally one that builds things with ML.
 
