@@ -12,6 +12,14 @@ I pick projects that make me learn something I don't know yet, and I look for th
 
 ### `$ ls ~/projects`
 
+**[skyblock-shard-fusions](https://github.com/Squirrrell/skyblock-shard-fusions)** ranks Hypixel SkyBlock shard fusions by profit using live Bazaar prices, and flags outputs priced well above their 7-day median. It also plans multi-step fusion chains and ranks which shards are worth hunting per hour. It's a static site on GitHub Pages, so you can [try it live](https://squirrrell.github.io/skyblock-shard-fusions/).
+
+```text
+bazaar api ──► top-of-book prices ──┐
+coflnet ─────► 7-day medians ───────┼──► profit per fusion ──► ranked table (60s refresh)
+fusion data ────────────────────────┘
+```
+
 **[AI_Detection](https://github.com/Squirrrell/AI_Detection)** estimates how likely a text is to be machine-written. It combines four signals instead of trusting one classifier, and shows a confidence label based on how much they agree. Next.js on the front, FastAPI behind it.
 
 ```text
